@@ -1,3 +1,5 @@
+# THIS IS ONLY THE CONVERTER PART OF THE BOT, NOT USED 
+
 import requests
 
 
