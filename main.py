@@ -5,6 +5,8 @@ import discord
 from dotenv import load_dotenv
 import requests
 
+
+# You have to make a .env file with the TOKEN that discord will generate for you!
 load_dotenv()
 TOKEN = os.getenv("TOKEN")
 GUILD = os.getenv("GUILD")
